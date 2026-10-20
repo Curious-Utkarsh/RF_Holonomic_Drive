@@ -8,6 +8,8 @@ A four-wheel mecanum robot driven over a 433 MHz RF link: one Arduino reads the 
 
 [![4-wheel mecanum drive robot (RF controlled)](https://img.youtube.com/vi/W1ZHQK8CiWQ/hqdefault.jpg)](https://youtu.be/W1ZHQK8CiWQ)
 
+[LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7258892146810789888/) (Nov 2024)
+
 ## Files
 
 `Holonomic_Control_TX.ino` transmitter · `Holonomic_Control_RX.ino` receiver and motor control
