@@ -16,7 +16,7 @@ A four-wheel mecanum robot driven over a 433 MHz RF link: one Arduino reads the 
 
 ## Related
 
-[Zeta mecanum drive in ROS 2](https://github.com/Curious-Utkarsh/Zeta-Mecanum-Drive-ROS2) — the same drive modelled and simulated in ROS 2
+[Zeta mecanum drive in ROS 2](https://github.com/Curious-Utkarsh/zeta-mecanum-robot) — the same drive modelled and simulated in ROS 2
 
 ---
 [Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [Portfolio of builds](https://www.mechamindlabs.com/projects)
