@@ -8,6 +8,8 @@ A four-wheel mecanum robot driven over a 433 MHz RF link: one Arduino reads the 
 
 [![4-wheel mecanum drive robot (RF controlled)](https://img.youtube.com/vi/W1ZHQK8CiWQ/hqdefault.jpg)](https://youtu.be/W1ZHQK8CiWQ)
 
+Playlist: [Engineering Builds (2022–2026)](https://www.youtube.com/playlist?list=PLPJ4HpDr6h6A)
+
 [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7258892146810789888/) (Nov 2024)
 
 ## Files
